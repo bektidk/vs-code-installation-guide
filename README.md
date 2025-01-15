@@ -1,5 +1,8 @@
 # Visual Studio Code Installation Guide
 
+[![English](https://img.shields.io/badge/lang-English-blue)](README.md)  
+[![Bahasa Indonesia](https://img.shields.io/badge/lang-Indonesia-red)](README.id.md)
+
 ## Installation
 
 ### Step 1: Download
