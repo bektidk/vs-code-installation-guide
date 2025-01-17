@@ -7,7 +7,6 @@
 
 ### Step 1: Download
 
-1. **Download**:
    - Visit the [Visual Studio Code download page](https://code.visualstudio.com/Download).
    - Choose the appropriate installer for your operating system:
      - **Windows**: Download the `.exe` file.
@@ -15,8 +14,6 @@
      - **Linux**: Download the `.deb` or `.rpm` file depending on your distribution.
 
 ### Step 2: Install
-
-2. **Install**:
 
    - **Windows**:
      1. Run the downloaded `.exe` file.
@@ -46,3 +43,13 @@
 Launch Visual Studio Code from your Applications menu or using the terminal:
 ```sh
 code
+```
+
+### Explore and Customize
+
+   - Open Visual Studio Code and explore its features:
+     - Use the built-in extensions marketplace to add functionality (e.g., language support, themes, debuggers).
+     - Customize the settings to suit your workflow via `File > Preferences > Settings`.
+   - Check out the [official documentation](https://code.visualstudio.com/docs) for detailed guides and tips.
+
+Enjoy coding!
